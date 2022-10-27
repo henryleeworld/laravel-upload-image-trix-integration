@@ -1,4 +1,4 @@
-# Laravel 8 上傳圖片 Trix 整合
+# Laravel 9 上傳圖片 Trix 整合
 
 整合 Trix 上傳圖片讓編輯器可上傳檔案甚至直瀏覽伺器服中的檔案。
 
