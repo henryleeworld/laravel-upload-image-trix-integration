@@ -1,4 +1,4 @@
-# Laravel 9 上傳圖片 Trix 整合
+# Laravel 10 上傳圖片 Trix 整合
 
 整合 Trix 上傳圖片讓編輯器可上傳檔案甚至直瀏覽伺器服中的檔案。
 
@@ -22,5 +22,5 @@ $ php artisan key:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/MsLZB6j.png)
+![](https://i.imgur.com/qXpaxlg.png)
 > 將圖片儲存並返回圖片網址
