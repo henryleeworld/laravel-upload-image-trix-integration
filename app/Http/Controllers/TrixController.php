@@ -8,9 +8,7 @@ use Illuminate\Http\Request;
 class TrixController extends Controller
 {
     /**
-     * success response method.
-     *
-     * @return \Illuminate\Http\Response
+     * Display a listing of the resource.
      */
     public function index()
     {
@@ -18,9 +16,7 @@ class TrixController extends Controller
     }
 
     /**
-     * success response method.
-     *
-     * @return \Illuminate\Http\Response
+     * Upload the image for the user.
      */
     public function upload(Request $request)
     {

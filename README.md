@@ -1,4 +1,4 @@
-# Laravel 11 上傳圖片 Trix 整合
+# Laravel 12 上傳圖片 Trix 整合
 
 整合 Trix 上傳圖片讓編輯器可上傳檔案甚至直瀏覽伺器服中的檔案。
 
@@ -16,11 +16,15 @@ $ composer install
 ```sh
 $ php artisan key:generate
 ```
+- 執行 __Artisan__ 指令的 __migrate__ 來執行所有未完成的遷移。
+```sh
+$ php artisan migrate
+```
 - 在瀏覽器中輸入已定義的路由 URL 來訪問，例如：http://127.0.0.1:8000。
 - 你可以經由 `/trix` 來進行 Trix 編輯。
 
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/0bI7uIf.png)
+![](https://i.imgur.com/GxsF4F3.png)
 > 將圖片儲存並返回圖片網址
