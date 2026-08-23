@@ -1,4 +1,4 @@
-# Laravel 12 上傳圖片 Trix 整合
+# Laravel 13 上傳圖片 Trix 整合
 
 整合 Trix 上傳圖片讓編輯器可上傳檔案甚至直瀏覽伺器服中的檔案。
 
@@ -26,5 +26,5 @@ $ php artisan migrate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/GxsF4F3.png)
+![](https://i.imgur.com/WRgZJD0.png)
 > 將圖片儲存並返回圖片網址
